@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/Open_Sans/OpenSans-BoldItalic.eot');
+}
+
+.main {
+    background-color: grey;
+}
+
+.pcb {
+  border-radius: 5px;
+  border: 2px solid;  
+}
+
+h1 {
+    font-size: 40px;
+}
